@@ -1,0 +1,6 @@
+.hobby:before {
+    content:"" ;
+}
+.hobby{
+    padding: 5px 5px 5px 5px;
+}
